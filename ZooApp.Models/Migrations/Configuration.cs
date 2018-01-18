@@ -21,8 +21,8 @@ namespace ZooApp.Models.Migrations
 
 
             //(Insert Value)//
-           /* context.Animals.Add(new Animal() {Food="Fish",Name="Dolphin",Origin="Ocean",Quantity=5 });
-            context.SaveChanges();*/
+            //context.Animals.Add(new Animal() {Food="Fish",Name="Cat",Origin="House",Quantity=15 });
+            //context.SaveChanges();
         }
     }
 }
